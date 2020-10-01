@@ -1,0 +1,15 @@
+.search-box {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    background: linear-gradient(
+    to left,
+    rgb(233, 210, 228) 0%,
+    rgb(247, 245, 246) 100%
+  );
+  }
+  
